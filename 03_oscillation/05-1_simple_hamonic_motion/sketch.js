@@ -17,5 +17,5 @@ function draw() {
 
   circle(0, 0, r * 2);
 
-  angle += 0.1;
+  angle += 0.01;
 }
