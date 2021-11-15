@@ -1,3 +1,9 @@
+/*
+ * Working with sine waves we are working with amplitude, how high or low are the "waves".
+ * Period (frequency) how "often" or how long a full "movement" from
+ * -a to 1 takes in the sketch
+ */
+
 let angle = 0;
 
 function setup() {
