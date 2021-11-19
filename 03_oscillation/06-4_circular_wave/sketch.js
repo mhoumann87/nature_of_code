@@ -1,3 +1,7 @@
+/*
+ * Putting the sine wave on the edge on a circle
+ */
+
 let phase = 0;
 let r;
 

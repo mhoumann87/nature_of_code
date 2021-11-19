@@ -1,3 +1,9 @@
+/*
+ * We take a number of pixels on the x axis and make an angle of these (total).
+ * From these angles we make an point on the y axis based on the sine of the angle.
+ * We then draw a vertex between these x and y points.
+ */
+
 const r = 4;
 
 function setup() {

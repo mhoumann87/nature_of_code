@@ -1,3 +1,8 @@
+/*
+ * Here we show a sine wave form angle 0 to TWO_PI, if we want a higher frequency,
+ * we can change the PI value eg 2 * TWO_PI.
+ */
+
 const angles = [];
 const r = 4;
 let w, h;

@@ -1,3 +1,8 @@
+/*
+ * We take the "yo-yo" example and make an array of then, spread out over
+ * over the width of the canvas, then add some different frequencies over the array.
+ */
+
 const angles = [];
 const angleV = [];
 const r = 16;
